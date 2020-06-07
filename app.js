@@ -2,9 +2,8 @@
 const container = document.querySelector(".container");
 const startBtn = document.querySelector(".btn");
 const intro = document.querySelector(".intro");
-const audio = new Audio("Gerry And The Pacemakers - Youll Never Walk Alone.mp3");
-const audio1 = new Audio("Lliverpool FC - We Shall Not Be Moved.mp3");
-const audio2 = new Audio("Lliverpool FC - Allez Allez Allez.mp3");
+const audio = new Audio("sounds/You'll Never Walk Alone.mp3");
+const audio2 = new Audio("sounds/Allez Allez Allez.mp3");
 const end = document.querySelector(".end");
 const titles = document.querySelectorAll(".title");
 const quote = document.querySelector(".quote");
