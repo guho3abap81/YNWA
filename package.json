@@ -1,0 +1,15 @@
+{
+  "name": "ynwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https:/guho3abap81/github.io/ynwa",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  }
+}
